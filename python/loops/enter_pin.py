@@ -1,5 +1,3 @@
-# Write code below 💖
-
 print('BANK OF CODÉDEX')
 
 pin = int(input('Enter your PIN: '))
